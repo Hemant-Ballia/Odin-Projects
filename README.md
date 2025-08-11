@@ -1,3 +1,1 @@
-# Odin Projects
-
-This is a collection of work related to the odinn project.
+#Recipes Project
